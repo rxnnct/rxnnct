@@ -5,5 +5,5 @@ In my spare time I develop and publish games made on Unity3D (C#) and TG game bo
 
 ### Experience
 - Java, Kotlin, C#, JS, SQL
-- Spring Framework, Quarkus, Jakarta EE, Unity3D
+- Spring Framework, Quarkus, TelegramBots, Unity3D
 - Little experience in Android development
